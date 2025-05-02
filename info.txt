@@ -7,3 +7,10 @@ Favorite Techtopic -> Frontend Development
                                             User Experience (UX) Design
                       User Interface (UI) 
                       ERP Application (e.g., Odoo).
+
+ My hobbies include singing, making desserts, traveling, and continuously learning new things.
+ I enjoy challenging myself because I believe I am capable of doing and learning anything.
+ I love sports, especially walking, and I enjoy traveling.
+ My goal in life is to succeed both in this world and the hereafter,
+ because I believe I came into this world to earn a place in the hereafter.
+
