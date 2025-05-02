@@ -1,0 +1,9 @@
+Name -> Walaa Mohammad Talahmeh.
+
+Major -> Information Technology (web technology)
+ 
+Favorite Techtopic -> Frontend Development
+                      Backend Development
+                                            User Experience (UX) Design
+                      User Interface (UI) 
+                      ERP Application (e.g., Odoo).
